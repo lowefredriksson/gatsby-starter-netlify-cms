@@ -1,33 +1,16 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Pierre Paulin'
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+description: 'description!!'
+tags: 
+  - d
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Legendary French furniture designer Pierre Paulin (1927-2009) bestrode the 1960’s and 70’s with his recognizable and innovative style that instantly revolutionized everyday furniture. He studied at the École Camondo design school in Paris, where his teacher urged him to join Marcel Gascoin’s workshop. There Paulin took in Scandinavian aesthetics and gained great insight in the role that design could play in society.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Through the 1950’s Pierre Paulin moved on to design furniture on his own and he began to experiment with stretchy, extensible fabrics that could be drawn across a chair’s armature. He started successful collaborations with Thonet France and Artifort, where the latter resulted in several iconic pieces such as the Mushroom, Ribbon and Tongue chairs, all of which have become sought-after design classics.
 
-## A little history
+A joyful modernist, Paulin’s low-slung pieces provided a new laid-back perspective on life and his forward-looking, eclectic and sculptural approach to furniture design instantly caught the mood of the swinging 60’s. The hedonistic, sinuous style of Paulin’s design also attracted the patronage of presidents Georges Pompidou and François Mitterrand, who asked him to redecorate parts of the Elysée Palace in the 1970’s and 80’s.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Widely recognized, Pierre Paulin’s innovative designs can today be found in contemporary art and design collections around the world, from the Museum of Modern Art, New York to the Victoria and Albert Museum, London along with the National Centre for Art and Culture Georges Pompidou in Paris.

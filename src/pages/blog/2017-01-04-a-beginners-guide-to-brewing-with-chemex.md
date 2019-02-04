@@ -1,27 +1,16 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Louis Weisdorf
 date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
-tags:
-  - brewing
-  - chemex
+description: 'description!!!'
+tags: 
+  - d
 ---
-![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Louis Weisdorf (born in 1932) is a well-known Danish architect and designer. After graduating from the The Royal Danish Academy of Fine Arts in Copenhagen in 1954, Weisdorf worked with everything from graphic-, interior- and industrial design, to recreational areas as well as most fields within the building trade. He described his career as "specialises in versatility", which, quite perfectly, sums up the long and notable career of this multi-designer.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+In 1961, he started a ten-year assignment at Tivoli, amusement park in Copenhagen, and worked as the main assistant to Tivoli’s chief architect Simon P Henningsen. In the late 1960's, Weisdorf set up his own design studio in Copenhagen, sharing the premises with architect Ole Panton (the younger brother of Verner Panton), where he served both national and international clients. During his active time as a designer, Weisdorf worked closely with many designers including Verner Panton, Poul Henningsen and Le Klint.
 
-## The little secrets of Chemex brewing
+Louis Weisdorf has always been interested in creating lights from a single element that could be repeated and built together in various fashions and a guiding principle of shielding the eye from direct bulb glare at all angles, which can for example be seen in his Turbo Pendant from 1967.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Today, Weisdorf lamps are collectors' items and can be bought on auctions.
