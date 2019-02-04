@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+
 
 const Navbar = class extends React.Component {
   componentDidMount() {
@@ -57,8 +56,14 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/products">
                 Products
               </Link>
-              <Link className="navbar-item" to="/designers">
+              <Link className="navbar-item" to="/designer">
                 Designers
+              </Link>
+              <Link className="navbar-item" to="/contact">
+                Contact
+              </Link>
+              <Link className="navbar-item" to="/contact/examples">
+                Form Examples
               </Link>
             </div>
           </div>

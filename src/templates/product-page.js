@@ -8,7 +8,7 @@ import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const ProductPageTemplate = ({
-  image,
+  image, 
   title,
   heading,
   description,
