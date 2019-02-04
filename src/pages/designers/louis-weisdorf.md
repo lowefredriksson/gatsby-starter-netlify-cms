@@ -1,7 +1,6 @@
 ---
 templateKey: designers
 title: Louis Weisdorf
-date: 2017-01-04T15:04:10.000Z
 description: "description!!!"
 tags:
   - d

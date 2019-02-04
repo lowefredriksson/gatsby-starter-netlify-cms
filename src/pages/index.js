@@ -31,8 +31,8 @@ export default class IndexPage extends React.Component {
                     {post.excerpt}
                     <br />
                     <br />
-                    <Link className="button is-small" to={post.fields.slug}>
-                      Keep Reading →
+                    <Link className="button is-small" style={{ borderRadius: 10 }} to={post.fields.slug}>
+                      Read more
                     </Link>
                   </p>
                 </div>
@@ -67,7 +67,6 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
-            date(formatString: "MMMM DD, YYYY")
           }
         }
       }
