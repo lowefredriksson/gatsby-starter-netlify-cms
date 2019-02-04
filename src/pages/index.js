@@ -7,27 +7,25 @@ export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-
+    console.log("posts", posts);
     return (
       <Layout>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+              <h1 className="has-text-weight-bold is-size-2">Designers</h1>
             </div>
             {posts
               .map(({ node: post }) => (
                 <div
                   className="content"
-                  style={{ border: '1px solid #333', padding: '2em 4em' }}
+                  style={{ padding: '2em 4em', flexDirection: 'column' }}
                   key={post.id}
                 >
                   <p>
                     <Link className="has-text-primary" to={post.fields.slug}>
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
                   </p>
                   <p>
                     {post.excerpt}
@@ -57,7 +55,6 @@ IndexPage.propTypes = {
 export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
     ) {
       edges {
@@ -77,3 +74,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+/*sort: { order: DESC, fields: [frontmatter___date] },*/
