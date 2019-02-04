@@ -1,4 +1,4 @@
-import React from 'react'
+/*import React from 'react'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
@@ -35,7 +35,7 @@ const TagsPage = ({
 
 export default TagsPage
 
-export const tagPageQuery = graphql`
+export const tagPageQuery = graphql
   query TagsQuery {
     site {
       siteMetadata {
@@ -49,4 +49,4 @@ export const tagPageQuery = graphql`
       }
     }
   }
-`
+*/

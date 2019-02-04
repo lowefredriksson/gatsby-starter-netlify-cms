@@ -1,4 +1,4 @@
-import React from 'react'
+/*import React from 'react'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
@@ -46,7 +46,7 @@ class TagRoute extends React.Component {
 
 export default TagRoute
 
-export const tagPageQuery = graphql`
+export const tagPageQuery = graphql
   query TagPage($tag: String) {
     site {
       siteMetadata {
@@ -71,4 +71,4 @@ export const tagPageQuery = graphql`
       }
     }
   }
-`
+*/

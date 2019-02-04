@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: designers
 title: Alvar Aalto
 description: 'description!!:)'
 tags:
