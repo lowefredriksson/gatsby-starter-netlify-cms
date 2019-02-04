@@ -1,9 +1,9 @@
 ---
-templateKey: 'blog-post'
-title: 'Pierre Paulin'
+templateKey: designers
+title: "Pierre Paulin"
 date: 2017-01-04T15:04:10.000Z
-description: 'description!!'
-tags: 
+description: "description!!"
+tags:
   - d
 ---
 
