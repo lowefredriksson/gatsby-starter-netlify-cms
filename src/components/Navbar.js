@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
 
-
 const Navbar = class extends React.Component {
   componentDidMount() {
     // Get all "navbar-burger" elements
@@ -36,9 +35,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <div style={{ color: "black"}}>
-                Form
-              </div>
+              <div style={{ color: "black" }}>Form</div>
             </Link>
             {/* Hamburger menu */}
             <div className="navbar-burger burger" data-target="navMenu">

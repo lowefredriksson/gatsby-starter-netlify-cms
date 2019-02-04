@@ -1,0 +1,75 @@
+import React from 'react'
+import PropTypes from 'prop-types'
+import { Link, graphql } from 'gatsby'
+import Layout from '../../components/Layout'
+
+export default class Products extends React.Component {
+  render() {
+    const { data } = this.props
+    const { edges: posts } = data.allMarkdownRemark
+    console.log("posts", posts);
+    return (
+      <Layout>
+        <section className="section">
+          <div className="container">
+            <div className="content">
+              <h1 className="has-text-weight-bold is-size-2">Products</h1>
+            </div>
+            {posts
+              .map(({ node: post }) => (
+                <div
+                  className="content"
+                  style={{ padding: '2em 4em', flexDirection: 'column' }}
+                  key={post.id}
+                >
+                  <p>
+                    <Link className="has-text-primary" to={post.fields.slug}>
+                      {post.frontmatter.title}
+                    </Link>
+                  </p>
+                  <p>
+                    {post.excerpt}
+                    <br />
+                    <br />
+                    <Link className="button is-small" style={{ borderRadius: 10 }} to={post.fields.slug}>
+                      Read more
+                    </Link>
+                  </p>
+                </div>
+              ))}
+          </div>
+        </section>
+      </Layout>
+    )
+  }
+}
+
+Products.propTypes = {
+  data: PropTypes.shape({
+    allMarkdownRemark: PropTypes.shape({
+      edges: PropTypes.array,
+    }),
+  }),
+}
+
+export const pageQuery = graphql`
+  query ProductsQuery {
+    allMarkdownRemark(
+      filter: { frontmatter: { templateKey: { eq: "product-page" } }}
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 400)
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            templateKey
+          }
+        }
+      }
+    }
+  }
+`
